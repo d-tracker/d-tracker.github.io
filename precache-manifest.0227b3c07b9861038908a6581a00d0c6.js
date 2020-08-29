@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/stats.42b22e47.css"
   },
   {
-    "revision": "2ee2b0c2120adf97629c97340a6b59fe",
+    "revision": "fadd233b92fb7df8449432db9433d895",
     "url": "/index.html"
   },
   {
-    "revision": "8b791738c4fabfd8a65a",
-    "url": "/js/app.401115f3.js"
+    "revision": "bc0d4ddc15f3eb592aae",
+    "url": "/js/app.67bc32ca.js"
   },
   {
     "revision": "02df14a6a55352e7d958",
