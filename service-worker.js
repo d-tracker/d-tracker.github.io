@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.37f0fa58cf789d7a791e1ec5b03d899e.js"
+  "/precache-manifest.82246da11838cfcac69dfad9c2a3d9ab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "disrupt-tracker"});
