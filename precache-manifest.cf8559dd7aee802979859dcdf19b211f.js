@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/settings.9357cc44.css"
   },
   {
-    "revision": "fcfcd3111279151c39c1",
+    "revision": "63be33c08e2eb80580c9",
     "url": "/css/stats.225d4c3a.css"
   },
   {
-    "revision": "2491466aba112d3d3d7eb7dcd3001c86",
+    "revision": "1cfe723335311b971ae7c1a858717e7b",
     "url": "/index.html"
   },
   {
-    "revision": "7226cb760651fd4dbac1",
-    "url": "/js/app.95092cd4.js"
+    "revision": "e79a33fd2f3514df64a4",
+    "url": "/js/app.882c9c9f.js"
   },
   {
     "revision": "96d042df43a54d850917",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/settings.9b710e1c.js"
   },
   {
-    "revision": "fcfcd3111279151c39c1",
-    "url": "/js/stats.fb6b225d.js"
+    "revision": "63be33c08e2eb80580c9",
+    "url": "/js/stats.33a3decd.js"
   },
   {
     "revision": "6fb79685f89dc8ece5264be574330af4",
